@@ -11,5 +11,8 @@
     "clean": "docker-compose down -v"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    
+  }
 }
